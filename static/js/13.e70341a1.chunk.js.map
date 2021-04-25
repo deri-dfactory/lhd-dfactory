@@ -1,0 +1,1 @@
+{"version":3,"sources":["mobile/pages/trade/Lite.js"],"names":["Lite"],"mappings":"wLAAe,SAASA,IACtB,OACE","file":"static/js/13.e70341a1.chunk.js","sourcesContent":["export default function Lite(){\n  return (\n    <div>lite</div>\n  )\n}"],"sourceRoot":""}

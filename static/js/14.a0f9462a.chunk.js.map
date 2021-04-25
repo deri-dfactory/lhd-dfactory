@@ -1,0 +1,1 @@
+{"version":3,"sources":["mobile/pages/trade/Pro.js"],"names":["Pro"],"mappings":"wLAAgB,SAASA,IACvB,OACE","file":"static/js/14.a0f9462a.chunk.js","sourcesContent":["export  default function Pro(){\n  return (\n    <div>Pro</div>\n  )\n}"],"sourceRoot":""}
